@@ -1,6 +1,5 @@
 ---
 version: 2
-
 updates:
   # GitHub Actions updates.
   - package-ecosystem: "github-actions"
